@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CallIntent</string>
+    <string name="make_call">Make That Call</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="make_call_button">Call Now</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
