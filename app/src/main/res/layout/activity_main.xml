@@ -12,7 +12,7 @@
         android:text="@string/make_call"
         android:id="@+id/tvMakeCallLabel"
         android:textSize="30dp"
-        android:fontFamily="sans-serif-condensed"
+        android:fontFamily="cursive"
         android:layout_marginTop="40dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
